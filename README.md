@@ -1,4 +1,4 @@
 motoStuff
 =========
 
-MotoStuff - Coursea: Getting and Cleaning Data
+MotoStuff - Coursera: Getting and Cleaning Data
